@@ -1,0 +1,21 @@
+/* Alert title. */
+"Incomplete information" = "Brakuje informacji";
+
+/* Alert message text in global map. */
+"Location tracking is not available." = "Sledzenie lokacji jest niedostepne.";
+
+/* Alert dismiss button text. */
+"OK" = "Dobrze";
+
+/* Alert massage when photo is missing. */
+"Please, add a photo." = "Prosze dodac zdjecie.";
+
+/* Alert massage when text field is empty. */
+"Please, enter some text." = "Prosze podac tekst notatki.";
+
+/* Alert massage when title field is empty. */
+"Please, provide the title." = "Prosze podac tytul notatki.";
+
+/* Alert message title in global map. */
+"Warning" = "Uwaga";
+

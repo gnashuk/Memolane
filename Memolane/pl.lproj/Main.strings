@@ -1,0 +1,42 @@
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "6Ps-8M-NmP"; */
+"6Ps-8M-NmP.title" = "Zapisz";
+
+/* Class = "UILabel"; text = "Text"; ObjectID = "EwN-qh-D1I"; */
+"EwN-qh-D1I.text" = "Tekst";
+
+/* Class = "UILabel"; text = "Text"; ObjectID = "H1x-f9-z42"; */
+"H1x-f9-z42.text" = "Tekst";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "N2T-09-lbM"; */
+"N2T-09-lbM.title" = "Anuluj";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OTK-lc-ht0"; */
+"OTK-lc-ht0.text" = "Labelka";
+
+/* Class = "UINavigationItem"; title = "Detailed Note"; ObjectID = "V7m-Fs-86y"; */
+"V7m-Fs-86y.title" = "Szczegoly notatki";
+
+/* Class = "UITabBarItem"; title = "List"; ObjectID = "e0T-Vp-6eO"; */
+"e0T-Vp-6eO.title" = "Lista";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "gPp-zY-qMu"; */
+"gPp-zY-qMu.title" = "Mapa";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "i4O-Hz-Buj"; */
+"i4O-Hz-Buj.text" = "Labelka";
+
+/* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "lRL-EK-bX2"; */
+"lRL-EK-bX2.title" = "Dodaj";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "vCT-HV-jXU"; */
+"vCT-HV-jXU.text" = "Tytul";
+
+/* Class = "UINavigationItem"; title = "Global Map"; ObjectID = "vLC-kN-oV7"; */
+"vLC-kN-oV7.title" = "Globalna mapa";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "wcA-tV-x2c"; */
+"wcA-tV-x2c.text" = "Tytul";
+
+/* Class = "UINavigationItem"; title = "New note"; ObjectID = "zvh-EQ-dIS"; */
+"zvh-EQ-dIS.title" = "Nowa notatka";
+
